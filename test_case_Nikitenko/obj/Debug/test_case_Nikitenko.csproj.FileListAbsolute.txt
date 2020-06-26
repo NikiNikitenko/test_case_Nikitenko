@@ -1,0 +1,17 @@
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\test_case_Nikitenko.exe.config
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\test_case_Nikitenko.exe
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\test_case_Nikitenko.pdb
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.csprojAssemblyReference.cache
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.Form1.resources
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.Properties.Resources.resources
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.csproj.GenerateResource.cache
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.csproj.CoreCompileInputs.cache
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.exe
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.pdb
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\AngleSharp.dll
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\AngleSharp.xml
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.csproj.CopyComplete
+D:\Personal\Podelki\test_case_Nikitenko\test_case_Nikitenko\obj\Debug\test_case_Nikitenko.csproj.ResolveComReference.cache
